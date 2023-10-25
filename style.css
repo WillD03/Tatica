@@ -1,0 +1,28 @@
+body{
+    color: white;
+    background-color: black;
+    text-align-last: center;
+}
+.foto1{
+    border-radius:150px;
+    height: 300px;
+    width: 300px;
+    margin: 20px;
+}
+.foto2{
+    border-radius:150px;
+    height: 300px;
+    width: 300px;
+    margin: 20px;
+}
+.foto3{
+    border-radius:150px;
+    height: 300px;
+    width: 300px;
+    margin: 20px;
+}
+button{
+    background-color: red;
+    color: white;
+}
+
